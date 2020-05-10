@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ultrasounder/simple-nodejs-weather-app/issues"
   },
-  "homepage": "https://github.com/ultrasounder/simple-nodejs-weather-app#readme"
+  "homepage": "https://github.com/ultrasounder/simple-nodejs-weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "yargs": "^15.3.1"
+  }
 }
